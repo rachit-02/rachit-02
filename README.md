@@ -155,10 +155,4 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
 
 </div>
 
----
 
-<div align="center">
-
-⭐️ From **Rachit Shrivastava**
-
-</div>
