@@ -76,8 +76,6 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 
 ## 🌐 Social Media & Contact
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit02/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.rachit.02?igsh=MTVvMTluOTZ5a2V4Zg==)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitshrivastava02@gmail.com)
