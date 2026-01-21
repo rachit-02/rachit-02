@@ -57,8 +57,6 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -86,44 +84,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RachitShrivastava&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=RachitShrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RachitShrivastava&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitShrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RachitShrivastava&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-### 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=RachitShrivastava&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RachitShrivastava/RachitShrivastava/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -136,11 +96,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=RachitShrivastava&color=blueviolet&style=for-the-badge)
