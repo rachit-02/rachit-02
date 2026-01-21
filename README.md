@@ -43,7 +43,6 @@
 
 ## 🎯 Current Focus
 
-<div align="center">
 
 | 🚀 Building | 📚 Learning | 🧩 Practicing | 🎯 Goals |
 |------------|------------|--------------|----------|
