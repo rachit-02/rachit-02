@@ -45,14 +45,11 @@
 
 <div align="center">
 
-```javascript
-const rachit = {
-    learning: ["Cloud Computing", "DevOps Practices", "System Design"],
-    practicing: ["Data Structures & Algorithms", "Competitive Programming"],
-    building: ["Scalable Web Applications", "Full Stack Projects"],
-    goals: ["Master AWS", "Contribute to Open Source", "Build Impactful Solutions"]
-};
-```
+| 🚀 Building | 📚 Learning | 🧩 Practicing | 🎯 Goals |
+|------------|------------|--------------|----------|
+| Scalable Web Apps | Cloud Computing | Data Structures & Algorithms | Master AWS |
+| Full Stack Projects | DevOps Practices | Competitive Programming | Contribute to Open Source |
+| Automation Tools | System Design | Problem Solving | Build Impactful Solutions |
 
 </div>
 
