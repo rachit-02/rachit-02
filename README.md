@@ -100,6 +100,4 @@
 
 **"Turning ideas into reality through code"** 💻✨
 
-<sub>⭐️ From [RachitShrivastava](https://github.com/rachit-02)</sub>
-
 </div>
