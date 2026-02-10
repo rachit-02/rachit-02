@@ -16,7 +16,7 @@
 
 **👨‍💻 Profile**
 - **Name:** Rachit Shrivastava
-- **🎓 Role:** Computer Science Student | DevOps Specialist  
+- **🎓 Role:** Computer Science Student | DevOps Specialist   
 - **🏫 University:** UPES  
 - **📅 Graduation:** May 2027  
 - **📍 Location:** India
